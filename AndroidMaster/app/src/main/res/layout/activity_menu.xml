@@ -30,6 +30,20 @@
         android:text="TODOApp"
         android:layout_marginTop="10dp"
         />
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnSuperHero"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SuperheroApp"
+        android:layout_marginTop="10dp"
+        />
 
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnSettings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:layout_marginTop="10dp"
+        />
 
 </LinearLayout>
